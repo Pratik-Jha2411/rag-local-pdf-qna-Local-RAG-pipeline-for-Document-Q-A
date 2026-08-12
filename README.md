@@ -120,7 +120,7 @@ python ingest.py "FILE_PATH" rag_index
 2. Ask a question:
 
 ```bash
-python qa.py rag_index "What is the policy for parental leave?"
+python qa.py rag_index "INSERT QUESTION RELEVANT TO YOUR DOCUMENT"
 ```
 
 Notes
