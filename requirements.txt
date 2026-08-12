@@ -1,0 +1,5 @@
+sentence-transformers>=2.2.2
+faiss-cpu
+transformers>=4.30.0
+pypdf
+torch
