@@ -94,9 +94,6 @@ Feel free to open issues or submit PRs for:
 
 ---
 
-## License
-
-MIT
 # Local Naive Document QnA (RAG-lite)
 
 This project provides a minimal local RAG-style QnA pipeline:
