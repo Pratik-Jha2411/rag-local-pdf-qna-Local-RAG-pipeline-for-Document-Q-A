@@ -15,13 +15,13 @@ Basic usage
 1. Ingest your PDF (replace the path and out directory):
 
 ```bash
-python ingest.py "C:\\Users\\prinx\\Downloads\\Acme Corp Employee Remote Work Policy.pdf" rag_index
+python ingest.py "FILE_PATH" rag_index
 ```
 
 2. Ask a question:
 
 ```bash
-python qa.py rag_index "What is the policy for parental leave?"
+python qa.py rag_index "INSERT QUESTION ABOUT DOCUMENT"
 ```
 
 Notes
